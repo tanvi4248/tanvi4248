@@ -1,12 +1,13 @@
 ## Hi there 👋 my name is Tanvi Patel
 
-### About me :
+
+### 👩‍💻 About Me :
 
 Hi, I am Tanvi, I have 7 years of experience designing, developing, and managing complex websites and web applications using HTML, CSS, PHP and modern JavaScript tools and frameworks. I am specialized in various CMS platforms, debugging tools, and working with cross-browser compatibility issues. I utilize effective communication and collaborate with a cross-functional team to exceed customer satisfaction.
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanvi_Patel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tdhpatel/)
 
-### Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 **Web Development Technology:** HTML, HTML5, CSS, CSS3, JavaScript, PHP, JSON, REST, Bootstrap  
 **Content Management System (CMS):** WordPress, PrestaShop, OpenCart, Shopify  
