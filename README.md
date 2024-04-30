@@ -1,4 +1,10 @@
-### Hi there 👋 my name is Tanvi Patel
+## Hi there 👋 my name is Tanvi Patel
+
+### About me
+
+Hi, I am Tanvi, I have 7 years of experience designing, developing, and managing complex websites and web applications using HTML, CSS, PHP and modern JavaScript tools and frameworks. I am specialized in various CMS platforms, debugging tools, and working with cross-browser compatibility issues. I utilize effective communication and collaborate with a cross-functional team to exceed customer satisfaction.
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth_Lankford-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tdhpatel/)
 
 <!--
 **tanvi4248/tanvi4248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
