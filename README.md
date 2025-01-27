@@ -27,7 +27,7 @@ Hi, I am Tanvi, I have 7 years of experience designing, developing, and managing
 **Designing Tool:** Photoshop, Figma  
 **Testing framework:** Cypress, Jest     
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanvi4248)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tanvi4248" alt="GitHub Streak" /></a>
 
 <!--
 **tanvi4248/tanvi4248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
