@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXMyaHcxb2J0eXJvcjI3N2VqYzdjbmxzMWpyeTBxc2xrYThpdjBnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 
-## Hi there 👋 my name is Tanvi Patel
+## Hi there 👋 My Name is Tanvi Patel
 
 
 ### 👩‍💻 About Me :
