@@ -28,7 +28,7 @@ Hi, I am Tanvi, I have 7 years of experience designing, developing, and managing
 **Testing framework:** Cypress, Jest     
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi4248&bg_color="shadow_blue")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi4248&bg_color="transparent")
 
 
 <!--
